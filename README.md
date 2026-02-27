@@ -2,6 +2,17 @@
 
 **GameLove** es un videojuego de estilo arcade desarrollado en Python utilizando la librería **Pygame**. El proyecto aplica el patrón de diseño arquitectónico **Modelo-Vista-Controlador (MVC)** para garantizar la escalabilidad y el mantenimiento del código.
 
+## 📸 Vista Previa del Sistema
+
+Aquí puedes observar la interfaz principal y el flujo del juego:
+
+<p align="center">
+  <img src="assets/images/screenshot_principal.jpeg" width="700" alt="Captura de Pantalla GameLove">
+  <br>
+  <i>Interfaz de juego: Visualización de HUD (Nivel, Tiempo, Score) y Sistema de Vidas.</i>
+</p>
+
+
 ## 🚀 Características y Funcionalidades
 - **Arquitectura MVC:** Separación clara entre la lógica de datos (Model), la interfaz de usuario (View) y el flujo de control (Controller).
 - **Dificultad Progresiva:** El sistema escala el nivel de los enemigos y su velocidad automáticamente cada 20 segundos de supervivencia.
@@ -24,7 +35,7 @@ GameLove/
 └── main.py           # Punto de entrada del videojuego
 
 
-🎮 Instrucciones de Instalación
+## 🎮 Instrucciones de Instalación
 
 1. Clonar el repositorio.
 

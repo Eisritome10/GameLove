@@ -9,7 +9,13 @@ Aquí puedes observar la interfaz principal y el flujo del juego:
 <p align="center">
   <img src="assets/images/screenshot_principal.jpeg" width="700" alt="Captura de Pantalla GameLove">
   <br>
-  <i>Interfaz de juego: Visualización de HUD (Nivel, Tiempo, Score) y Sistema de Vidas.</i>
+  <i>Interfaz del menú principal del juego: Visualización (Nivel, Tiempo, Record).</i>
+</p>
+
+<p align="center">
+  <img src="assets/images/screenshot_principal2.jpeg" width="700" alt="Captura de Pantalla GameLove">
+  <br>
+  <i>Interfaz de juego: Visualización de HUD (Nivel, Tiempo, Record) y Sistema de Vidas.</i>
 </p>
 
 

@@ -26,15 +26,6 @@ Aquí puedes observar la interfaz principal y el flujo del juego:
 - **Patrón de Diseño:** Model-View-Controller (MVC)
 - **Persistencia:** Manejo de archivos planos (.txt)
 
-## 📁 Estructura del Proyecto
-```text
-GameLove/
-├── assets/images/    # Sprites y fondos del juego
-├── data/             # Archivos de persistencia (Récord)
-├── src/              # Código fuente modular (Model, View, Sprites)
-└── main.py           # Punto de entrada del videojuego
-
-
 ## 🎮 Instrucciones de Instalación
 
 1. Clonar el repositorio.
@@ -59,3 +50,13 @@ GameLove/
 ✒️ Autor
 
 Emanuel - Estudiante de Ingeniería de Sistemas e Informática.
+
+## 📁 Estructura del Proyecto
+```text
+GameLove/
+├── assets/images/    # Sprites y fondos del juego
+├── data/             # Archivos de persistencia (Récord)
+├── src/              # Código fuente modular (Model, View, Sprites)
+└── main.py           # Punto de entrada del videojuego
+
+
